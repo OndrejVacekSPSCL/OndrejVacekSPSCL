@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m figuring everything out<br>🤝 I’m studying on SPSCL<br>🌱 I’m currently learning everytihng<br>⚡ Fun fact: I don't know what I'm doing
+🔭 I’m figuring everything out<br>🤝 I’m study at SPSCL<br>🌱 I’m currently learning everytihng<br>⚡ Fun fact: I don't know what I'm doing
 
 
 ## 🌐 Socials:
