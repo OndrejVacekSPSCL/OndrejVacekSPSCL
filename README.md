@@ -9,7 +9,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)
 
 # 🏫 I'm Learning:
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OndrejVacekSPSCL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
